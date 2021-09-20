@@ -1,0 +1,69 @@
+#header{
+    background: #34495e;
+    color: cornsilk;
+    height: 30px;
+}
+#five{
+   background:jhj ;
+}
+
+
+.img-thumbnail:hover{
+    background: orange;
+   text-decoration: solid;
+   
+}
+#header{
+    background: #34495e;
+    color: cornsilk;
+}
+#header2{
+    background: cornsilk;
+    /* color: cornsilk; */
+}
+#menu{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#menu li{
+    list-style: none;
+   display:inline-block;
+}
+#menu li a{
+  padding: 15px 10px;
+  display: block;
+}
+#menu li a:hover{
+    background: #2d3436;
+  }
+a:hover{
+    text-decoration: none;
+}
+
+
+                                       /* banner */
+
+#blue{
+  background: url('pictures/blue.jpg') no-repeat 0 0 ;  
+  background-size: cover;
+  color:  #2d3436; 
+  height: 300px ;
+   width: auto;
+}
+#research{
+    color: white;
+    padding: auto;
+    padding: auto;
+    
+}
+
+
+
+
+
+
+
+

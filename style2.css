@@ -1,0 +1,17 @@
+.navbar{
+min-height: 5%;
+
+}
+
+#poster1{
+    color: white;
+}
+.col-4 jumbotron m-auto{
+
+margin-left: -100px;
+
+}
+#map{
+   height: 200px;
+
+}

@@ -1,0 +1,22 @@
+ /* 2nd navbar */
+ #header{
+    background: #34495e;
+    color: cornsilk;
+    height: 30px;
+}
+#menu li{
+    list-style: none;
+   display:inline-block;
+}
+
+#menu li a{
+    padding: 15px 10px;
+    display: block;
+  }
+  #menu li a:hover{
+      background: #2d3436;
+    }
+  a:hover{
+      text-decoration: none;
+  }
+      /* /2nd navbar */

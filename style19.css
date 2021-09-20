@@ -1,0 +1,64 @@
+ /* 2nd navbar */
+ #header{
+    background: #34495e;
+    color: cornsilk;
+    height: 30px;
+}
+#menu li{
+    list-style: none;
+   display:inline-block;
+}
+
+#menu li a{
+    padding: 15px 10px;
+    display: block;
+  }
+  #menu li a:hover{
+      background: #2d3436;
+    }
+  a:hover{
+      text-decoration: none;
+  }
+      /* /2nd navbar */
+
+
+
+      #blue{
+        background: url('pictures/blue.jpg') no-repeat 0 0 ;  
+        background-size: cover;
+        color:  #2d3436; 
+        height: 300px ;
+         width: auto;
+      }
+      
+      #forth{
+        
+     
+        height: 500px;
+   
+   
+   }
+   .map{
+    border:1px solid black;
+
+ height: 400px;
+ width: 300px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 300px;
+  border-radius: 10px 10px;
+}
+
+
+.form{
+  border:1px solid black;
+  height: 400px;
+  width: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+  margin-right: 150px;
+  border-radius: 10px 10%;
+}
+
+
